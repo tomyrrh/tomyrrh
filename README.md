@@ -23,5 +23,5 @@
 |------|---|---|
 |제 2회 세종특별자치시 빅데이터 분석 아이디어 공모전|우수|Nov 4, 2021|
 |2020 ICT 콕 AI 공모전|장려상|Sep 2, 2020|
-|FINTECH-AI-HACKATHON|2nd|Oct 29, 2020|
+|FINTECH-AI-HACKATHON|2등|Oct 29, 2020|
 
